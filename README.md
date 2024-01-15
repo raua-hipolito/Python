@@ -1,6 +1,6 @@
-# Python
+# Python 
 ESSE REPOSITÓRIO VAI GURDAR ALGUNS FUNDAMENTOS DE PYTHON. 
-FIQUE À VONTADE PARA EXPLORAR E ESTUDAR ALGUNS CONCEITOS BASE
+FIQUE À VONTADE PARA EXPLORAR E ESTUDAR ALGUNS CONCEITOS BASE 
 
 
 Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, criada por Guido van Rossum e lançada pela primeira vez em 1991. Aqui estão algumas características-chave e conceitos associados ao Python:
@@ -22,3 +22,4 @@ Linguagem de Script e Desenvolvimento Rápido: Python é frequentemente utilizad
 Duck Typing: Python segue o princípio do "duck typing", que se concentra na implementação de métodos e comportamentos específicos em vez de exigir tipos de dados específicos.
 
 Python é amplamente utilizado em várias áreas, como desenvolvimento web, automação, aprendizado de máquina, ciência de dados, inteligência artificial e muitos outros domínios de programação. Sua versatilidade e facilidade de uso contribuíram para sua popularidade crescente ao longo dos anos.
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
