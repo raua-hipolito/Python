@@ -1,0 +1,39 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: debugando meus testes", 
+            "type": "python",
+            "request": "launch",
+            "purpose": [
+                "debug-test"
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": false,
+        },
+        {
+            "name": "Python: Exemplo Trybe",
+            "type": "python",
+            "request": "launch",
+            "module": "pytest",
+            "justMyCode": false,
+            "autoReload": {
+                "enable": true
+            },
+            "env": {
+                "DEBUG_MODE": "true"
+            }
+        },
+        {
+            "name": "Python: Arquivo Atual",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
