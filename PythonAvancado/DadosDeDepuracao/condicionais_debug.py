@@ -28,3 +28,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# exercício: 1) descubra o valor de current_value na linha while
+# quando a soma de i e position for igual a 6 pela primeira vez
