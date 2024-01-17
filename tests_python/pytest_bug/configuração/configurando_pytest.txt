@@ -13,3 +13,8 @@ Para criarmos testes, precisamos primeiramente criar arquivos de teste.
 O Pytest procura automaticamente arquivos Python (com extensão .py) que comecem com test_ ou que terminem com _test.py. O primeiro formato ajuda a identificar arquivos de teste, mas o segundo facilita na busca por arquivos em ordem alfabética e facilita a visualização. Você pode escolher o formato que achar melhor.
 
 Os testes em si, devem ser funções que comecem com o prefixo test_
+
+------------------------------------------------------------------------------------------
+Fixtures builtin
+De olho na dica 👀: Para os exemplos em código, considere que eles devem ser colocados em um arquivo fixtures_test.py.
+
