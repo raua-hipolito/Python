@@ -1,0 +1,20 @@
+Instalando o Pytest
+O passo a passo para usar o pytest é bem simples:
+
+Garanta que está com seu ambiente virtual devidamente criado e ativado.
+Crie o ambiente virtual com o comando python3 -m venv .venv
+Ative o ambiente virtual com o comando source .venv/bin/activate
+Instale o Pytest com o comando pip install pytest==7.3.1
+Confirme que a instalação foi bem sucedida rodando o comando pytest --version
+
+Criando um teste
+Para criarmos testes, precisamos primeiramente criar arquivos de teste.
+
+O Pytest procura automaticamente arquivos Python (com extensão .py) que comecem com test_ ou que terminem com _test.py. O primeiro formato ajuda a identificar arquivos de teste, mas o segundo facilita na busca por arquivos em ordem alfabética e facilita a visualização. Você pode escolher o formato que achar melhor.
+
+Os testes em si, devem ser funções que comecem com o prefixo test_
+
+------------------------------------------------------------------------------------------
+Fixtures builtin
+De olho na dica 👀: Para os exemplos em código, considere que eles devem ser colocados em um arquivo fixtures_test.py.
+
